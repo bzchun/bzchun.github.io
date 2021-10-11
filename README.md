@@ -1,3 +1,7 @@
+## Education
+-Master of Science (M.S.) Computer Science and Engineering, Univeristy of California Santa Cruz, expected June 2022.
+-Bachelor of Science (B.S.) Computer Engineering, University of California Santa Cruz, 2021.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bzchun/bzchun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
