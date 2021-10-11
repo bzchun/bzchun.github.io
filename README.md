@@ -1,6 +1,6 @@
 ## Education
--Master of Science (M.S.) Computer Science and Engineering, Univeristy of California Santa Cruz, expected June 2022.
--Bachelor of Science (B.S.) Computer Engineering, University of California Santa Cruz, 2021.
+- Master of Science (M.S.) Computer Science and Engineering, Univeristy of California Santa Cruz, expected June 2022.
+- Bachelor of Science (B.S.) Computer Engineering, University of California Santa Cruz, 2021.
 
 ## Welcome to GitHub Pages
 
