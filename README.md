@@ -1,7 +1,6 @@
 ## Education
-- (2021-2022) Univeristy of California Santa Cruz
+- (2017-2022) Univeristy of California Santa Cruz
   - M.S. Computer Science and Engineering (expected June 2021) 
-- (2017-2021) University of California Santa Cruz
   - B.S. Computer Engineering
 
 ## Welcome to GitHub Pages
