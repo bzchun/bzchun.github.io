@@ -15,6 +15,16 @@ Since 2017, I have been a student at the Univeristy of California, Santa Cruz st
 
 ## Skills and Projects 
 
+- **Undergraduate Capstone Project: [SimpleSort](https://github.com/JustynDuthler/SimpleSort)**
+  - Automatic in-home garbage sorting system can separate compost, recycling, and landfill.
+    - Mechanical tray-based sorting mechanism.
+    - Built with off-the-shelf and 3D printed parts.
+  - Features an image recognition machine learning model made with Tensorflow Lite.
+    - Achieved >80% accuracy in sorting correctness.
+    - Computation done on-board with Raspberry pi.
+
+<br>
+
 - **FPGA & Microprocessor Programming**
   - Xilinx FPGA programming using Verilog and Vivado.
     - Fast FIFO buffer, Booth multiplier, SIMON encryption implementation, FSMs.
@@ -30,16 +40,6 @@ Since 2017, I have been a student at the Univeristy of California, Santa Cruz st
   - Java: 2D basketball game, Netflix data recommender.
   - Python: General scripting, Mininet & Openflow custom network emulation.
   - 4+ years of experience working in Linux environments.
-
-<br>
-
-- **Undergraduate Capstone Project: [SimpleSort](https://github.com/JustynDuthler/SimpleSort)**
-  - Automatic in-home garbage sorting system can separate compost, recycling, and landfill.
-    - Mechanical tray-based sorting mechanism.
-    - Built with off-the-shelf and 3D printed parts.
-  - Features an image recognition machine learning model made with Tensorflow Lite.
-    - Achieved >80% accuracy in sorting correctness.
-    - Computation done on-board with Raspberry pi.
 
 <br>
 
