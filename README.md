@@ -3,7 +3,7 @@
 
 Since 2017, I have been a student at the Univeristy of California, Santa Cruz studying computer engineering. I have great interest in computer systems and systems engineering. I enjoy working with others to solve tough problems. I expect to graduate with a Master's of Science in Computer Science and Engineering in June 2022 and plan to explore opportunities in industry. 
 
-- Interests
+Interests:
   - Aerospace, defense, and technology
   - Football (Go Hawks!)
   - Formula 1, Sports Car Racing
