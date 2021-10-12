@@ -23,7 +23,7 @@ Since 2017, I have been a student at the Univeristy of California, Santa Cruz st
     - Achieved >80% accuracy in sorting correctness.
     - Computation done on-board with Raspberry pi.
 
-<br>
+
 
 - **FPGA & Microprocessor Programming**
   - Xilinx FPGA programming using Verilog and Vivado.
