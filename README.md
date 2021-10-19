@@ -7,7 +7,7 @@ Interests:
   - Aerospace, defense, and technology
   - Football (Go Hawks!)
   - Formula 1, Sports Car Racing
-  - Nature (I am an Eagle Scout)
+  - Nature (Eagle Scout since 2017)
   - Movies, TV, gaming
 
 
